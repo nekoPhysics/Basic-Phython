@@ -1,4 +1,4 @@
-words = ''
+words = input()
 # 空の文字列ファイルを作る
 while (True):
     try:
